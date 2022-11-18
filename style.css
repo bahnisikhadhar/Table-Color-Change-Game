@@ -1,0 +1,18 @@
+table{
+    margin-top: 5rem;
+    width: 100%;
+}
+tr{
+    width: 25%;
+    height: 3rem;
+    /* background-color: blue; */
+}
+.hero-col{
+    background-color: red;
+}
+table tr{
+    background-color: green;
+}
+/* table > tr{
+    background-color: red;
+} */
